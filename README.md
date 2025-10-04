@@ -1,18 +1,32 @@
 # RienConnectify
-Rien Connectify App
-# “Tên gọi Rien Connectify lấy cảm hứng từ sự đơn giản: một nền tảng không ồn ào, không dư thừa — nơi con người kết nối qua nội dung thật, không biểu diễn.”
-Đây là ứng dụng mạng xã hội đa nền tảng, mục tiêu là tập trung vào một nhóm người cụ thể có chọn lọc cho mục đích phát triển chung của nhóm.
 
-“Lịch sử phát triển:
+> “Từ không, mà kết nối hiện hữu.”  
+> Một nền tảng mạng xã hội tối giản — nơi con người kết nối qua nội dung thật, không biểu diễn.
 
-Tháng 07: Lên ý tưởng ngày 22, bắt đầu code bằng Firebase, dùng Flutter sau đó cho đa nền tảng
-    
-    
-Tháng 08: Tập trung vào mảng kết nối app như đăng nhập đăng ký, tạo bài viết cho feed, mở rộng cho hình ảnh và trang cá nhân
+## Tổng quan
+RienConnectify là ứng dụng mạng xã hội full-stack tự phát triển bằng **Flutter (Dart)** và **Firebase**. Mục tiêu: tạo không gian giao tiếp nhẹ, hiệu năng cao, tập trung vào trải nghiệm người dùng thực sự.
 
-Tháng 09: Mở rộng chức năng chính là nhắn tin, cải tiến UI toàn hệ thống, giảm thời gian load
+## Tính năng chính
+- Đăng nhập/đăng ký (Firebase Auth)  
+- Đăng bài, bình luận, like  
+- Kết bạn, theo dõi (đang phát triển tính năng theo dõi)
+- Nhắn tin thời gian thực (Firebase Cloud Messaging)  
+- Thông báo, quản lý profile  
+- Tối ưu tải và hiển thị (giảm 40% thời gian load từ v1.0 → v1.3)
 
-Tháng 10: Chuẩn bị file apk, tập trung vào tiếp tục phát triển giao diện người dùng
-    "tôi nhận thấy đã đủ để chuẩn bị ra mắt app, sau khi nâng cấp hệ thống và chỉ định mục tiêu rõ ràng hơn cho ứng dụng"
+## Lịch sử phát triển
+- **Tháng 07/2024**: Khởi động dự án — Firebase backend, Flutter frontend.  
+- **Tháng 08**: Hoàn thiện đăng nhập, feed, profile, đăng bài.  
+- **Tháng 09**: Thêm chat, cải tiến UI toàn hệ thống (Material Design 3).  
+- **Tháng 10**: Build APK, test trên thiết bị thật. Chuẩn bị cho giai đoạn tối ưu và ra mắt.
 
-// File upload là file nén rar của file apk đã được đăng ký đầy đủ SHA-1 và SHA-256
+## Triết lý
+> “Tôi nhận thấy đã đủ để chuẩn bị ra mắt — sau khi nâng cấp hệ thống và chỉ định mục tiêu rõ ràng hơn cho ứng dụng.”  
+> RienConnectify không hướng đến lượng, mà hướng đến *chất*: một cộng đồng nhỏ, có chọn lọc, cùng phát triển.
+
+## Tải APK
+- File APK đã được build, đăng ký SHA-1 và SHA-256.  
+- Tải tại: `/release/RienConnectify_v1.3.apk` (trong thư mục release)
+
+## Góp ý & Hợp tác
+Mọi ý kiến, đóng góp hoặc cơ hội hợp tác — xin liên hệ: accms576311276@gmail.com
