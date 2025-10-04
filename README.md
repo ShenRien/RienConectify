@@ -1,7 +1,7 @@
 # RienConectify
 Rien Conectify App
 # “Tên gọi Rien Connectify lấy cảm hứng từ sự đơn giản: một nền tảng không ồn ào, không dư thừa — nơi con người kết nối qua nội dung thật, không biểu diễn.”
-# Đây là ứng dụng mạng xã hội đa nền tảng, mục tiêu là tập trung vào một nhóm người cụ thể có chọn lọc cho mục đích phát triển chung của nhóm.
+Đây là ứng dụng mạng xã hội đa nền tảng, mục tiêu là tập trung vào một nhóm người cụ thể có chọn lọc cho mục đích phát triển chung của nhóm.
 
 “Lịch sử phát triển:
 
@@ -14,3 +14,5 @@ Tháng 09: Mở rộng chức năng chính là nhắn tin, cải tiến UI toàn
 
 Tháng 10: Chuẩn bị file apk, tập trung vào tiếp tục phát triển giao diện người dùng
     "tôi nhận thấy đã đủ để chuẩn bị ra mắt app, sau khi nâng cấp hệ thống và chỉ định mục tiêu rõ ràng hơn cho ứng dụng để đưa ra công bố"
+
+// File upload là file nén rar của file apk đã được đăng ký đầy đủ SHA-1 và SHA-256
