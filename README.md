@@ -13,6 +13,6 @@ Tháng 08: Tập trung vào mảng kết nối app như đăng nhập đăng ký
 Tháng 09: Mở rộng chức năng chính là nhắn tin, cải tiến UI toàn hệ thống, giảm thời gian load
 
 Tháng 10: Chuẩn bị file apk, tập trung vào tiếp tục phát triển giao diện người dùng
-    "tôi nhận thấy đã đủ để chuẩn bị ra mắt app, sau khi nâng cấp hệ thống và chỉ định mục tiêu rõ ràng hơn cho ứng dụng để đưa ra công bố"
+    "tôi nhận thấy đã đủ để chuẩn bị ra mắt app, sau khi nâng cấp hệ thống và chỉ định mục tiêu rõ ràng hơn cho ứng dụng"
 
 // File upload là file nén rar của file apk đã được đăng ký đầy đủ SHA-1 và SHA-256
