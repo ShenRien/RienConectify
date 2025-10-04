@@ -1,5 +1,5 @@
-# RienConectify
-Rien Conectify App
+# RienConnectify
+Rien Connectify App
 # “Tên gọi Rien Connectify lấy cảm hứng từ sự đơn giản: một nền tảng không ồn ào, không dư thừa — nơi con người kết nối qua nội dung thật, không biểu diễn.”
 Đây là ứng dụng mạng xã hội đa nền tảng, mục tiêu là tập trung vào một nhóm người cụ thể có chọn lọc cho mục đích phát triển chung của nhóm.
 
