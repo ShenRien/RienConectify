@@ -6,7 +6,7 @@ Rien Conectify App
 “Lịch sử phát triển:
 
 Tháng 07: Lên ý tưởng ngày 22, bắt đầu code bằng Firebase, dùng Flutter sau đó cho đa nền tảng
-    “Ban đầu tôi có trao đổi với một người về ý tưởng, nhưng sau đó không tiếp tục. Tôi quyết định tiếp tục như một dự án tự học — để kiểm chứng khả năng của bản thân.”
+    
     
 Tháng 08: Tập trung vào mảng kết nối app như đăng nhập đăng ký, tạo bài viết cho feed, mở rộng cho hình ảnh và trang cá nhân
 
