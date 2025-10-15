@@ -28,7 +28,6 @@ RienConnectify là ứng dụng mạng xã hội full-stack tự phát triển b
 - File APK đã được build, đăng ký SHA-1 và SHA-256.  
 - Tải tại: `/release/RienConnectify_v1.4.0.apk` (trong thư mục release)
   
-  (điều hướng: [/release/RienConnectify_v1.4.0.apk](Release/RienConnectify_v1.4.0.apk))
 
 ## Góp ý & Hợp tác
 Mọi ý kiến, đóng góp hoặc cơ hội hợp tác — xin liên hệ: accms576311276@gmail.com
